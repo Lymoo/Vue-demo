@@ -1,4 +1,4 @@
-# vuedemo
+# Vue Demo
 
 个人制作的VUE小应用，可以查阅图书、电影、地图等
 
@@ -6,22 +6,9 @@
 
 # 项目地址：[Demo](http://www.lymoozzc.com/phone/vue/index.html)
 
-> A Vue.js project
+# 本地执行
 
-## Build Setup
+下载该项目之后，从终端进入执行`npm install`安装环境
 
-``` bash
-# install dependencies
-npm install
+之后输入`npm run dev`即可
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
