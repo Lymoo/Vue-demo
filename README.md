@@ -4,7 +4,7 @@
 
 地图和详情页面正在建设中....以后完成会更新发布。
 
-# 项目地址：[Demo](http://www.lymoozzc.com/phone/vue/index.html)
+# 项目地址：[Demo](http://www.lymoozzc.com/phone/vue/index.html)  (浏览器端建议使用手机模式查看)
 
 # 本地执行
 
